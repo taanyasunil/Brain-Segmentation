@@ -14,4 +14,4 @@ Thresholding model can be found in Thresh3D.m
 KMeans model can be found in KMeans3D.m
 And finally, the combined model can be found in Combined3D.m
 
-These models also do use several filters to bring out the best results. More information on this and other methods implemented as well as an indepth analysis can be found in the report titled 'Taanya Computer Vision'
+These models also do use several filters to bring out the best results. More information on this and other methods implemented as well as an indepth analysis can be found in the report titled 'Taanya Computer Vision.pdf'
